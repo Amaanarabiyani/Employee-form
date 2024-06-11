@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "392794439550",
+    "project_id": "employee-form-42fd7",
+    "storage_bucket": "employee-form-42fd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392794439550:android:c48c58a3ec6d5e7728fd2f",
+        "android_client_info": {
+          "package_name": "com.example.employee_fomr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJVWgVphZnNlJEG3X2KXahDgZNk1P2XG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
